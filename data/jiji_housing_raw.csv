@@ -1,0 +1,21 @@
+title,region,region_name,region_parent_name,price,bedrooms,bathrooms,property_size,furnishing,is_boost
+2bdrm Block of Flats in Ago Palace for sale,"Isolo, Ago Palace",Ago Palace,Isolo,"₦ 270,000,000",2,2,600,Unfurnished,diamond
+5bdrm Duplex in Ikota for sale,"Lekki, Ikota",Ikota,Lekki,"₦ 650,000,000",5,5,500,Unfurnished,diamond
+5bdrm House in Ikota for sale,"Lekki, Ikota",Ikota,Lekki,"₦ 600,000,000",5,5,550,Unfurnished,diamond
+3bdrm Apartment in Ago Palace for sale,"Isolo, Ago Palace",Ago Palace,Isolo,"₦ 90,000,000",3,3,620,Unfurnished,diamond
+6bdrm Duplex in GRA Phase 1 for sale,"Magodo, GRA Phase 1",GRA Phase 1,Magodo,"₦ 450,000,000",6,6,300,Unfurnished,diamond
+4bdrm Duplex in Ago Palace for sale,"Isolo, Ago Palace",Ago Palace,Isolo,"₦ 260,000,000",4,4,220,Unfurnished,diamond
+4bdrm Bungalow in Gberigbe for sale,"Ikorodu, Gberigbe",Gberigbe,Ikorodu,"₦ 22,000,000",4,4,638,Unfurnished,diamond
+5bdrm Duplex in Abraham Adesanya Estate for sale,"Ajah, Abraham Adesanya Estate",Abraham Adesanya Estate,Ajah,"₦ 260,000,000",5,5,500,Unfurnished,diamond
+4bdrm Duplex in Chevron for sale,"Lekki, Chevron",Chevron,Lekki,"₦ 200,000,000",4,4,1000,Unfurnished,diamond
+5bdrm Duplex in Banana Island for sale,"Ikoyi, Banana Island",Banana Island,Ikoyi,"₦ 7,000,000,000",5,5,600,Unfurnished,diamond
+2bdrm Apartment in Lekki Phase 1 for sale,"Lekki, Lekki Phase 1",Lekki Phase 1,Lekki,"₦ 310,000,000",2,2,900,Unfurnished,diamond
+3bdrm Apartment in Ago Palace for sale,"Isolo, Ago Palace",Ago Palace,Isolo,"₦ 240,000,000",3,3,850,Unfurnished,diamond
+Furnished 4bdrm Apartment for sale,"Victoria Island, Victoria Island Extension",Victoria Island Extension,Victoria Island,"₦ 680,000,000",4,4,2200,Furnished,False
+5bdrm Duplex in Life Camp for sale,"Gwarinpa, Life Camp",Life Camp,Gwarinpa,"₦ 255,000,000",5,6,450,Unfurnished,False
+Furnished 4bdrm Duplex in Private Estate for sale,"Ajah, Oke Ira / Ajah",Oke Ira / Ajah,Ajah,"₦ 80,000,000",4,4,500,Furnished,diamond
+Furnished 2bdrm Block of Flats in Gaduwa By Ebeano for sale,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),"₦ 95,000,000",2,2,150,Furnished,premium
+5bdrm Duplex in Mabushi for sale,"Abuja (FCT), Mabushi",Mabushi,Abuja (FCT),"₦ 380,000,000",5,5,250,Unfurnished,premium
+9bdrm Villa in Guzape District for sale,"Abuja (FCT), Guzape District",Guzape District,Abuja (FCT),"₦ 1,400,000,000",9,9,500,Semi-Furnished,premium
+"3bdrm Bungalow in El Salem Estate, FHA for sale","Lugbe District, FHA",FHA,Lugbe District,"₦ 95,000,000",3,3,300,Unfurnished,False
+"5bdrm House in Engr Lere Adigun Gra, Basorun for sale","Ibadan, Basorun",Basorun,Ibadan,"₦ 420,000,000",5,5,500,Semi-Furnished,premium
