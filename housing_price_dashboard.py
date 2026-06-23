@@ -17,7 +17,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     try:
-        df = pd.read_csv("data/cleaned_nigeria_housing_dataset.csv")
+        df = pd.read_csv("cleaned_nigeria_housing_dataset.csv")
         return df
     except FileNotFoundError as e:
         st.warning(f"An error occured: {e}")
