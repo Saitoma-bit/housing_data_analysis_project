@@ -32,9 +32,9 @@ def create_sidebar_filters(df):
     )
 
     price = st.sidebar.multiselect(
-        "Selected Price(s)",
-        options=df['Price'].unique(),
-        default=df['Price'].unique()
+        "Select Furnishing",
+        options=df['Furnishing'].unique(),
+        default=df['Furnishing'].unique()
     )
     boosting = st.sidebar.multiselect(
         'Selected Boost(s)',
@@ -44,7 +44,7 @@ def create_sidebar_filters(df):
     return Region, price, boosting
 
 def filter_data(df, Region, price, boosting):
-    filtered_df = df[df['Region Parent Name'].isin(Region) & df['Price'].isin(price) & df['Is Boost'].isin(boosting)]
+    filtered_df = df[df['Region Parent Name'].isin(Region) & df['Furnishing'].isin(price) & df['Is Boost'].isin(boosting)]
     return filtered_df
 
 def display_metrics(filtered_df):
@@ -54,16 +54,24 @@ def display_metrics(filtered_df):
         st.metric("🏠Total House Listings", len(filtered_df))
 
     with col2:
-        avg_price = filtered_df['Price'].mean() if len(filtered_df) > 0 else 0
-        st.metric("⛪Average Price", f"₦{avg_price:,.2f}")
+        average_price = filtered_df['Price'].mean() if len(filtered_df) > 0 else 0
+        if average_price >= 1_000_000:
+            formatted_average = f"₦{int(average_price / 1_000_000)} M"
+        elif average_price >= 1_000:
+            formatted_average = f"₦{int(average_price / 1_000)} K"
+        else:
+            formatted_average = f"₦{int(average_price)}"
 
+        st.metric("⛪Average Price", formatted_average )
+
+     
     with col3:
         common_region = filtered_df['Region Parent Name'].mode()[0] if not filtered_df.empty else "N/A"
         st.metric("🏣Most Common Region", value=common_region)
 
     with col4:
         house_pct = (filtered_df['Furnishing'] == 'Furnished').sum() / len(filtered_df) * 100 if len(filtered_df) > 0 else 0
-        st.metric("✔️ House Percentage", f"{house_pct:.1f}%")
+        st.metric("✔️ Furnished House Percentage", f"{house_pct:.1f}%")
 
     
 def display_chart(filtered_df):
@@ -170,7 +178,7 @@ def main():
     Region, price, boosting = create_sidebar_filters(df)
     #filtered_data
     filtered_df = filter_data(df, Region, price, boosting)
-    st.title("House Pricing Dashboard")
+    st.title("JIJI HOUSE PRICING DASHBOARD")
     st.markdown("---")
     #display metrics
     display_metrics(filtered_df)
