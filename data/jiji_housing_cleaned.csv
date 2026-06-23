@@ -12,7 +12,7 @@ Title,Property Size,Bedrooms,Bathrooms,Furnishing,Region,Region Name,Region Pare
 2bdrm Apartment in Lekki Phase 1 for sale,1000,2,2,Unfurnished,"Lekki, Lekki Phase 1",Lekki Phase 1,Lagos State,Premium,275000000.0
 "5bdrm House in Ikota, Lekki for sale",600,5,5,semi-furnished,"Lekki, Ikota",Ikota,Lagos State,Premium,430000000.0
 Furnished 5bdrm Duplex in Magodo Phase 2 Gra for sale,300,5,5,Furnished,"Magodo, GRA Phase 2 Shangisha",GRA Phase 2 Shangisha,Lagos State,Diamond,690000000.0
-"3bdrm Bungalow in Ugbokodo Okpe, Warri for sale",464,3,3,Unfurnished,"Delta State, Warri",Warri,Lagos State, VIP Gold,60000000.0
+"3bdrm Bungalow in Ugbokodo Okpe, Warri for sale",464,3,3,Unfurnished,"Delta State, Warri",Warri,Lagos State,VIP Gold,60000000.0
 "9bdrm Duplex in Life Camp, Jabi for sale",870,9,10,semi-furnished,"Abuja (FCT), Jabi",Jabi,Abuja (FCT),False,480000000.0
 "2bdrm Apartment in Ajah, Abraham Adesanya Estate for sale",648,2,2,Unfurnished,"Ajah, Abraham Adesanya Estate",Abraham Adesanya Estate,Lagos State,Premium,80000000.0
 "Furnished 4bdrm Duplex in Olawaiye Estate, for sale",380,4,4,Furnished,"Ikeja, Omole Phase 2",Omole Phase 2,Lagos State,Diamond,210000000.0
@@ -23,7 +23,7 @@ Furnished 4bdrm Maisonette in Off Opebi for sale,500,4,4,Furnished,"Ikeja, Opebi
 "19bdrm Block of Flats in Ikot Ekpene, Calabar for sale",2500,19,19,semi-furnished,"Cross River State, Calabar",Calabar,Cross River State,VIP,60000000.0
 "5bdrm Duplex in Rosetta Court, Ikeja GRA for sale",450,5,5,semi-furnished,"Ikeja, Ikeja GRA",Ikeja GRA,Lagos State,False,900000000.0
 3bdrm Bungalow in Enugu for sale,700,3,4,Unfurnished,"Enugu State, Enugu",Enugu,Enugu State,False,140000000.0
-3bdrm Apartment in Egan Igando Housing for sale,100,3,3,Unfurnished,"Ikotun/Igando, Igando / Ikotun/Igando",Igando / Ikotun/Igando,Lagos State, VIP Gold,55000000.0
+3bdrm Apartment in Egan Igando Housing for sale,100,3,3,Unfurnished,"Ikotun/Igando, Igando / Ikotun/Igando",Igando / Ikotun/Igando,Lagos State,VIP Gold,55000000.0
 3bdrm Block of Flats in Ikoyi for sale,220,3,3,semi-furnished,"Lagos State, Ikoyi",Ikoyi,Lagos State,Enterprise,580000000.0
 "4bdrm Duplex in River Pack Estate, Sabon Lugbe for sale",250,4,4,semi-furnished,"Lugbe District, Sabon Lugbe",Sabon Lugbe,Abuja (FCT),Diamond,300000000.0
 "3bdrm Block of Flats in Unity Estate, Ajah for sale",2100,3,4,Unfurnished,"Lagos State, Ajah",Ajah,Lagos State,Premium,260000000.0
@@ -43,7 +43,7 @@ Furnished 3bdrm Bungalow in Ogombo for sale,600,3,3,Furnished,"Ajah, Ogombo",Ogo
 6bdrm Duplex in Lokogoma for sale,800,6,6,Unfurnished,"Abuja (FCT), Lokogoma",Lokogoma,Abuja (FCT),Diamond,180000000.0
 3bdrm Duplex in Life Camp for sale,350,3,3,Unfurnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT),Diamond,170000000.0
 3bdrm Duplex in Apo Legislative for sale,300,3,3,Unfurnished,"Abuja (FCT), Apo District",Apo District,Abuja (FCT),Diamond,240000000.0
-5bdrm Duplex in Heritage Estate for sale,500,5,5,semi-furnished,"Ibadan, Oluyole Estate",Oluyole Estate,Oyo State, VIP Gold,280000000.0
+5bdrm Duplex in Heritage Estate for sale,500,5,5,semi-furnished,"Ibadan, Oluyole Estate",Oluyole Estate,Oyo State,VIP Gold,280000000.0
 4bdrm Duplex in Victoriaview Estate for sale,800,4,4,semi-furnished,"Lekki, Lekki Expressway",Lekki Expressway,Lagos State,False,230000000.0
 3bdrm Block of Flats in Ago Palace for sale,635,3,3,Unfurnished,"Isolo, Ago Palace",Ago Palace,Lagos State,Diamond,250000000.0
 5bdrm Duplex in Guzape District for sale,500,5,6,Unfurnished,"Abuja (FCT), Guzape District",Guzape District,Abuja (FCT),Diamond,550000000.0
@@ -277,13 +277,13 @@ Furnished 5bdrm Duplex in Omole Phase 1 for sale,450,5,5,Furnished,"Ikeja, Omole
 Furnished 1bdrm Block of Flats in Alapere for sale,420,1,1,Furnished,"Kosofe, Ketu-Alapere",Ketu-Alapere,Lagos State,Enterprise,250000000.0
 Furnished 2bdrm Apartment in GRA Phase 1 / Port-Harcourt for sale,300,2,2,Furnished,"Port-Harcourt, GRA Phase 1 / Port-Harcourt",GRA Phase 1 / Port-Harcourt,Port-Harcourt,False,120000000.0
 Furnished 5bdrm Duplex in Omole Phase 1 for sale,300,5,5,Furnished,"Ikeja, Omole Phase 1",Omole Phase 1,Lagos State,Enterprise,250000000.0
-"3bdrm Apartment in Private, Kaura for sale",500,3,6,Unfurnished,"Abuja (FCT), Kaura",Kaura,Abuja (FCT), VIP Gold,105000000.0
+"3bdrm Apartment in Private, Kaura for sale",500,3,6,Unfurnished,"Abuja (FCT), Kaura",Kaura,Abuja (FCT),VIP Gold,105000000.0
 4bdrm Duplex in Kubwa for sale,500,4,4,semi-furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),Diamond,190000000.0
-"3bdrm Block of Flats in Private, Gaduwa for sale",500,3,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,103000000.0
+"3bdrm Block of Flats in Private, Gaduwa for sale",500,3,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,103000000.0
 "3bdrm Block of Flats in Iwo Road, Very Close for sale",870,3,2,Unfurnished,"Ibadan, Iwo Road",Iwo Road,Oyo State,False,85000000.0
 Furnished 3bdrm Bungalow in Ibeshe for sale,350,3,3,Furnished,"Ikorodu, Ibeshe / Ikorodu",Ibeshe / Ikorodu,Lagos State,Enterprise,60000000.0
-"2bdrm Block of Flats in Private, Galadimawa for sale",500,2,3,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT), VIP Gold,70000000.0
-"5bdrm Duplex in Private, Utako for sale",600,5,6,semi-furnished,"Abuja (FCT), Utako",Utako,Abuja (FCT), VIP Gold,600000000.0
+"2bdrm Block of Flats in Private, Galadimawa for sale",500,2,3,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT),VIP Gold,70000000.0
+"5bdrm Duplex in Private, Utako for sale",600,5,6,semi-furnished,"Abuja (FCT), Utako",Utako,Abuja (FCT),VIP Gold,600000000.0
 "3bdrm House in Mabel Estate, Ijesha for sale",50,3,3,Unfurnished,"Surulere, Ijesha",Ijesha,Lagos State,False,55000000.0
 Furnished 2bdrm Block of Flats in Kubwa for sale,600,2,20,Furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),False,350000000.0
 "1bdrm Block of Flats in Akwo Kwara Poly, Ilorin East for sale",135,1,1,Unfurnished,"Kwara State, Ilorin East",Ilorin East,Kwara State,Diamond,16000000.0
@@ -298,83 +298,83 @@ Furnished 4bdrm Duplex in Lekki Phase 1 for sale,300,4,4,Furnished,"Lekki, Lekki
 Studio Apartment in Oshinfolarin Yaba for sale,120,1,1,Unfurnished,"Lagos State, Yaba",Yaba,Lagos State,False,5000000.0
 2bdrm Apartment in Ikate Right for sale,600,2,2,Unfurnished,"Lekki, Ikate",Ikate,Lagos State,Diamond,150000000.0
 "Furnished 4bdrm Duplex in Elepe Royal Estate, Ebute for sale",300,4,4,Furnished,"Ikorodu, Ebute",Ebute,Lagos State,Enterprise,120000000.0
-"6bdrm Duplex in Private, Galadimawa for sale",400,6,6,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT), VIP Gold,460000000.0
-"3bdrm Block of Flats in Private, Durumi for sale",500,3,4,semi-furnished,"Abuja (FCT), Durumi",Durumi,Abuja (FCT), VIP Gold,130000000.0
+"6bdrm Duplex in Private, Galadimawa for sale",400,6,6,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT),VIP Gold,460000000.0
+"3bdrm Block of Flats in Private, Durumi for sale",500,3,4,semi-furnished,"Abuja (FCT), Durumi",Durumi,Abuja (FCT),VIP Gold,130000000.0
 "Furnished 4bdrm Bungalow in Orule Meta Harmony, Ilorin South for sale",500,4,4,Furnished,"Kwara State, Ilorin South",Ilorin South,Kwara State,Diamond,13000000.0
 "4bdrm Bungalow in Araromi Community, Ilorin South for sale",900,4,4,Unfurnished,"Kwara State, Ilorin South",Ilorin South,Kwara State,Diamond,15000000.0
 Furnished 4bdrm Duplex in Magodo G R A Phase 2 for sale,420,4,4,Furnished,"Magodo, GRA Phase 2 Shangisha",GRA Phase 2 Shangisha,Lagos State,Enterprise,700000000.0
 "5bdrm Duplex in Greenwood, Ibeju for sale",600,5,5,semi-furnished,"Lagos State, Ibeju",Ibeju,Lagos State,Diamond,170000000.0
 "5bdrm Bungalow in Ganmo, Ifelodun-Kwara for sale",470,5,5,semi-furnished,"Kwara State, Ifelodun-Kwara",Ifelodun-Kwara,Kwara State,Diamond,13000000.0
-"4bdrm Duplex in Private, Lugbe District for sale",400,4,5,Unfurnished,"Abuja (FCT), Lugbe District",Lugbe District,Abuja (FCT), VIP Gold,50000000.0
+"4bdrm Duplex in Private, Lugbe District for sale",400,4,5,Unfurnished,"Abuja (FCT), Lugbe District",Lugbe District,Abuja (FCT),VIP Gold,50000000.0
 "Furnished 3bdrm Bungalow in Ebunlomo Hotel Area, Asa for sale",900,3,4,Furnished,"Kwara State, Asa",Asa,Kwara State,Diamond,47000000.0
 3bdrm Bungalow in Ita Alamu Ilorin South for sale,350,3,3,semi-furnished,"Kwara State, Ilorin South",Ilorin South,Kwara State,Diamond,8500000.0
 2bdrm Apartment in Abraham Adesanya for sale,600,2,2,Unfurnished,"Ajah, Abraham Adesanya Estate",Abraham Adesanya Estate,Lagos State,Diamond,85000000.0
-"Furnished 4bdrm Duplex in Dantata Estate, Kubwa for sale",500,4,5,Furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT), VIP Gold,280000000.0
+"Furnished 4bdrm Duplex in Dantata Estate, Kubwa for sale",500,4,5,Furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),VIP Gold,280000000.0
 4bdrm Duplex in Life Camp for sale,300,4,4,Unfurnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT),Diamond,350000000.0
 "3bdrm Block of Flats in Gaa Akanbi, Ilorin South for sale",450,3,3,semi-furnished,"Kwara State, Ilorin South",Ilorin South,Kwara State,Diamond,24000000.0
 3bdrm Bungalow in Kubwa for sale,300,3,3,semi-furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),Diamond,40000000.0
 2bdrm Block of Flats in Sangotedo for sale,648,2,3,Unfurnished,"Ajah, Sangotedo",Sangotedo,Lagos State,Enterprise,300000000.0
 "Furnished 4bdrm Duplex in Greenwich Garden, Agboyi/Ketu for sale",300,4,4,Furnished,"Lagos State, Agboyi/Ketu",Agboyi/Ketu,Lagos State,Enterprise,220000000.0
 "Furnished 3bdrm Block of Flats in Unity, Ago Palace for sale",600,3,3,Furnished,"Isolo, Ago Palace",Ago Palace,Lagos State,Enterprise,250000000.0
-"4bdrm Bungalow in Private, Galadimawa for sale",650,4,5,Unfurnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT), VIP Gold,110000000.0
+"4bdrm Bungalow in Private, Galadimawa for sale",650,4,5,Unfurnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT),VIP Gold,110000000.0
 "Furnished 5bdrm Duplex in Gown Estate, Egbeda for sale",500,5,5,Furnished,"Alimosho, Egbeda",Egbeda,Lagos State,Enterprise,600000000.0
 "Furnished 5bdrm Duplex in Akora Estate, Adeniyi Jones for sale",430,5,5,Furnished,"Ikeja, Adeniyi Jones",Adeniyi Jones,Lagos State,Enterprise,450000000.0
 5bdrm Duplex in Dawaki for sale,200,5,5,semi-furnished,"Gwarinpa, Dawaki",Dawaki,Abuja (FCT),Diamond,200000000.0
 "5bdrm Duplex in Ochacho Real Homes 3, Life Camp for sale",329,5,6,Unfurnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT),Diamond,260000000.0
-"4bdrm Duplex in Private, Kaura for sale",550,4,5,semi-furnished,"Abuja (FCT), Kaura",Kaura,Abuja (FCT), VIP Gold,300000000.0
-"2bdrm Block of Flats in Private, Gaduwa for sale",350,2,3,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,85000000.0
-"6bdrm Duplex in Abuja Top Realty, Katampe Extension for sale",943,6,6,Unfurnished,"Katampe, Katampe Extension",Katampe Extension,Abuja (FCT), VIP Gold,600000000.0
+"4bdrm Duplex in Private, Kaura for sale",550,4,5,semi-furnished,"Abuja (FCT), Kaura",Kaura,Abuja (FCT),VIP Gold,300000000.0
+"2bdrm Block of Flats in Private, Gaduwa for sale",350,2,3,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,85000000.0
+"6bdrm Duplex in Abuja Top Realty, Katampe Extension for sale",943,6,6,Unfurnished,"Katampe, Katampe Extension",Katampe Extension,Abuja (FCT),VIP Gold,600000000.0
 3bdrm Duplex in Kubwa for sale,200,3,3,Unfurnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),Diamond,65000000.0
 Mini Flat in Sangotedo Eti-Osa for sale,250,1,1,Unfurnished,"Ajah, Sangotedo",Sangotedo,Lagos State,Diamond,85000000.0
-"5bdrm Duplex in Private, Dakwo District for sale",700,5,6,semi-furnished,"Abuja (FCT), Dakwo District",Dakwo District,Abuja (FCT), VIP Gold,350000000.0
-"4bdrm Duplex in Private, Mabushi for sale",500,4,5,semi-furnished,"Abuja (FCT), Mabushi",Mabushi,Abuja (FCT), VIP Gold,350000000.0
+"5bdrm Duplex in Private, Dakwo District for sale",700,5,6,semi-furnished,"Abuja (FCT), Dakwo District",Dakwo District,Abuja (FCT),VIP Gold,350000000.0
+"4bdrm Duplex in Private, Mabushi for sale",500,4,5,semi-furnished,"Abuja (FCT), Mabushi",Mabushi,Abuja (FCT),VIP Gold,350000000.0
 Furnished 4bdrm Duplex in Isheri North Grr for sale,500,4,4,Furnished,"Ojodu, Isheri North",Isheri North,Lagos State,Enterprise,180000000.0
 5bdrm Duplex in Life Camp for sale,400,5,5,Unfurnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT),Diamond,700000000.0
-"2bdrm Duplex in Abuja Top Realty, Apo Resettlement for sale",3000,2,2,Unfurnished,"Apo District, Apo Resettlement",Apo Resettlement,Abuja (FCT), VIP Gold,140000000.0
+"2bdrm Duplex in Abuja Top Realty, Apo Resettlement for sale",3000,2,2,Unfurnished,"Apo District, Apo Resettlement",Apo Resettlement,Abuja (FCT),VIP Gold,140000000.0
 Furnished 5bdrm Duplex in Ago Palace for sale,600,5,5,Furnished,"Isolo, Ago Palace",Ago Palace,Lagos State,Enterprise,270000000.0
-"5bdrm Duplex in Private, Galadimawa for sale",500,5,6,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT), VIP Gold,240000000.0
-"3bdrm Bungalow in Private, Galadimawa for sale",550,3,4,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT), VIP Gold,110000000.0
+"5bdrm Duplex in Private, Galadimawa for sale",500,5,6,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT),VIP Gold,240000000.0
+"3bdrm Bungalow in Private, Galadimawa for sale",550,3,4,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT),VIP Gold,110000000.0
 1bdrm Apartment in Sangotedo Eti-Osa for sale,600,1,1,Unfurnished,"Ajah, Sangotedo",Sangotedo,Lagos State,Diamond,35000000.0
 3bdrm Apartment in Majek Axis Sangotedo for sale,4000,3,3,Unfurnished,"Ajah, Sangotedo",Sangotedo,Lagos State,Diamond,50000000.0
 2bdrm Apartment in Ikate Lekki Eti-Osa for sale,600,2,2,Unfurnished,"Lekki, Ikate",Ikate,Lagos State,Diamond,220000000.0
 Furnished 3bdrm Apartment in Magodo G R A Phase 2 for sale,300,3,3,Furnished,"Magodo, GRA Phase 2 Shangisha",GRA Phase 2 Shangisha,Lagos State,Enterprise,150000000.0
 Furnished 4bdrm Duplex in Magodo G R A Phase 1 for sale,350,4,4,Furnished,"Magodo, GRA Phase 1",GRA Phase 1,Lagos State,Enterprise,330000000.0
-"2bdrm Block of Flats in Private, Gaduwa for sale",500,2,3,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,65000000.0
+"2bdrm Block of Flats in Private, Gaduwa for sale",500,2,3,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,65000000.0
 1bdrm Apartment in Ologolo Lekki for sale,600,1,1,Unfurnished,"Lekki, Ologolo",Ologolo,Lagos State,Diamond,65000000.0
 2bdrm Apartment in Abraham Adesanya for sale,600,2,2,Unfurnished,"Ajah, Abraham Adesanya Estate",Abraham Adesanya Estate,Lagos State,Diamond,120000000.0
 2bdrm Apartment in Agungi Lekki Eti-Osa for sale,600,2,2,Unfurnished,"Lekki, Agungi",Agungi,Lagos State,Diamond,120000000.0
 Furnished 4bdrm Duplex in Life Camp for sale,600,4,4,Furnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT),Diamond,150000000.0
 3bdrm Duplex in Gwarinpa for sale,150,3,3,Unfurnished,"Abuja (FCT), Gwarinpa",Gwarinpa,Abuja (FCT),Diamond,55000000.0
-2bdrm Bungalow in Gudu for sale,550,2,3,semi-furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT), VIP Gold,165000000.0
-2bdrm Block of Flats in Durumi for sale,300,2,3,semi-furnished,"Abuja (FCT), Durumi",Durumi,Abuja (FCT), VIP Gold,80000000.0
+2bdrm Bungalow in Gudu for sale,550,2,3,semi-furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT),VIP Gold,165000000.0
+2bdrm Block of Flats in Durumi for sale,300,2,3,semi-furnished,"Abuja (FCT), Durumi",Durumi,Abuja (FCT),VIP Gold,80000000.0
 "Furnished 4bdrm Bungalow in Unguwar Dosa, Kaduna / Kaduna State",1000,4,7,Furnished,"Kaduna State, Kaduna / Kaduna State",Kaduna / Kaduna State,Kaduna State,False,120000000.0
 "5bdrm Duplex in Eleganza Estate, VGC / Ajah for sale",600,5,5,Unfurnished,"Ajah, VGC / Ajah",VGC / Ajah,Lagos State,Diamond,400000000.0
 "Furnished 4bdrm Duplex in Ikeja, Allen Avenue for sale",300,4,4,Furnished,"Ikeja, Allen Avenue",Allen Avenue,Lagos State,Enterprise,320000000.0
 Furnished 2bdrm Block of Flats in Ikoyi for sale,445,2,2,Furnished,"Ikoyi, Ikoyi S.W",Ikoyi S.W,Lagos State,Enterprise,900000000.0
-"4bdrm Duplex in Private, Galadimawa for sale",550,4,6,Unfurnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT), VIP Gold,350000000.0
+"4bdrm Duplex in Private, Galadimawa for sale",550,4,6,Unfurnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT),VIP Gold,350000000.0
 4bdrm Duplex in Olokonla Ajah Lekki for sale,300,4,4,Unfurnished,"Ajah, Olokonla",Olokonla,Lagos State,Diamond,200000000.0
 "4bdrm Duplex in Otunla, Bogije for sale",600,4,4,semi-furnished,"Ibeju, Bogije",Bogije,Lagos State,Diamond,120000000.0
 4bdrm Duplex in Adeniyi Jones Ikeja for sale,350,4,5,semi-furnished,"Ikeja, Adeniyi Jones",Adeniyi Jones,Lagos State,Diamond,400000000.0
-"Furnished 3bdrm Block of Flats in Abijo Victory Villa, Ajah for sale",380,3,3,Furnished,"Lagos State, Ajah",Ajah,Lagos State, VIP Gold,77000000.0
+"Furnished 3bdrm Block of Flats in Abijo Victory Villa, Ajah for sale",380,3,3,Furnished,"Lagos State, Ajah",Ajah,Lagos State,VIP Gold,77000000.0
 Furnished 4bdrm Mansion in Guzape District for sale,1346,4,5,Furnished,"Abuja (FCT), Guzape District",Guzape District,Abuja (FCT),Diamond,380000000.0
-"Furnished 4bdrm Duplex in Dantata, Kubwa for sale",500,4,4,Furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT), VIP Gold,280000000.0
+"Furnished 4bdrm Duplex in Dantata, Kubwa for sale",500,4,4,Furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),VIP Gold,280000000.0
 "Furnished 6bdrm House in Vamilan Hotels, Ijesha for sale",50,6,4,Furnished,"Surulere, Ijesha",Ijesha,Lagos State,False,350000000.0
 Furnished 3bdrm Duplex in Magodo G R A Phase 1 for sale,300,3,3,Furnished,"Magodo, GRA Phase 1",GRA Phase 1,Lagos State,Enterprise,160000000.0
-"5bdrm Penthouse in Private, Gaduwa for sale",550,5,6,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,250000000.0
-4bdrm Duplex in Wuye for sale,1200,4,5,semi-furnished,"Abuja (FCT), Wuye",Wuye,Abuja (FCT), VIP Gold,650000000.0
+"5bdrm Penthouse in Private, Gaduwa for sale",550,5,6,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,250000000.0
+4bdrm Duplex in Wuye for sale,1200,4,5,semi-furnished,"Abuja (FCT), Wuye",Wuye,Abuja (FCT),VIP Gold,650000000.0
 4bdrm Duplex in Ikota Lekki Eti-Osa for sale,600,4,4,Unfurnished,"Lekki, Ikota",Ikota,Lagos State,Diamond,100000000.0
 Furnished 5bdrm Duplex in Magodo G R A Phase 1 for sale,1400,5,5,Furnished,"Magodo, GRA Phase 1",GRA Phase 1,Lagos State,Enterprise,450000000.0
 1bdrm Block of Flats in Odo Ona for sale,600,1,1,Unfurnished,"Ibadan, Odo Ona",Odo Ona,Oyo State,Enterprise,100000000.0
-"3bdrm Apartment in Private, Gaduwa for sale",500,3,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,105000000.0
+"3bdrm Apartment in Private, Gaduwa for sale",500,3,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,105000000.0
 "3bdrm Apartment in Megamound Estate, Ikota for sale",600,3,3,Unfurnished,"Lekki, Ikota",Ikota,Lagos State,Diamond,120000000.0
 "Furnished 3bdrm Block of Flats in Unity, Ogba for sale",650,3,3,Furnished,"Lagos State, Ogba",Ogba,Lagos State,Enterprise,750000000.0
 "Furnished 4bdrm Duplex in Lonex  Estate, Isheri North for sale",300,4,4,Furnished,"Ojodu, Isheri North",Isheri North,Lagos State,Enterprise,180000000.0
 5bdrm Duplex in Galadimawa for sale,900,5,5,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT),Diamond,500000000.0
-"1bdrm Apartment in Private, Apo District for sale",500,1,2,Unfurnished,"Abuja (FCT), Apo District",Apo District,Abuja (FCT), VIP Gold,60000000.0
+"1bdrm Apartment in Private, Apo District for sale",500,1,2,Unfurnished,"Abuja (FCT), Apo District",Apo District,Abuja (FCT),VIP Gold,60000000.0
 "4bdrm Bungalow in Ibeju Lekki, Elerangbe for sale",250,4,4,Unfurnished,"Ibeju, Elerangbe",Elerangbe,Lagos State,Diamond,70000000.0
 Furnished 3bdrm Mansion in Ado-Odo/Ota for sale,120,3,3,Furnished,"Ogun State, Ado-Odo/Ota",Ado-Odo/Ota,Ogun State,False,260000000.0
 "3bdrm Block of Flats in Cosgrove Estate, Maitama for sale",150,3,3,semi-furnished,"Abuja (FCT), Maitama",Maitama,Abuja (FCT),Diamond,250000000.0
-"3bdrm Block of Flats in Private, Gaduwa for sale",500,3,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,105000000.0
+"3bdrm Block of Flats in Private, Gaduwa for sale",500,3,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,105000000.0
 "6bdrm Duplex in Katampe Main, Abuja for sale",500,6,7,semi-furnished,"Katampe, Katampe (Main)",Katampe (Main),Abuja (FCT),Enterprise,500000000.0
 Furnished 5bdrm Duplex in Lekki Phase 1 for sale,450,5,5,Furnished,"Lekki, Lekki Phase 1",Lekki Phase 1,Lagos State,Enterprise,800000000.0
 "4bdrm Duplex in Gaduwa, Abii for sale",400,4,5,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),Enterprise,180000000.0
@@ -383,35 +383,35 @@ Furnished 5bdrm Duplex in Lekki Phase 1 for sale,450,5,5,Furnished,"Lekki, Lekki
 Furnished 2bdrm Duplex in Omole Phase 2 for sale,300,2,2,Furnished,"Ikeja, Omole Phase 2",Omole Phase 2,Lagos State,Enterprise,270000000.0
 Furnished 4bdrm Duplex in Magodo G R A Phase 1 for sale,300,4,4,Furnished,"Magodo, GRA Phase 1",GRA Phase 1,Lagos State,Enterprise,230000000.0
 Furnished 2bdrm Block of Flats in Ogudu for sale,500,2,2,Furnished,"Ogudu, Ogudu-Orioke",Ogudu-Orioke,Lagos State,Enterprise,200000000.0
-"4bdrm Duplex in Private, Life Camp for sale",400,4,5,Unfurnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT), VIP Gold,130000000.0
-"Furnished 3bdrm Apartment in Private, Mpape for sale",500,3,4,Furnished,"Abuja (FCT), Mpape",Mpape,Abuja (FCT), VIP Gold,150000000.0
+"4bdrm Duplex in Private, Life Camp for sale",400,4,5,Unfurnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT),VIP Gold,130000000.0
+"Furnished 3bdrm Apartment in Private, Mpape for sale",500,3,4,Furnished,"Abuja (FCT), Mpape",Mpape,Abuja (FCT),VIP Gold,150000000.0
 4bdrm Duplex in Addo Road Ajah for sale,600,4,4,Unfurnished,"Ajah, Ado / Ajah",Ado / Ajah,Lagos State,Diamond,130000000.0
 Furnished 2bdrm Apartment in Eko Atlantic for sale,400,2,2,Furnished,"Lagos State, Eko Atlantic",Eko Atlantic,Lagos State,Enterprise,750000000.0
 2bdrm Duplex in Sangotedo Eti-Osa for sale,600,2,2,Unfurnished,"Ajah, Sangotedo",Sangotedo,Lagos State,Diamond,120000000.0
 Furnished 3bdrm Apartment in Osborne Phase 2 for sale,300,3,3,Furnished,"Ikoyi, Osborne Foreshore Estate",Osborne Foreshore Estate,Lagos State,Enterprise,380000000.0
-"2bdrm Block of Flats in Private, Garki 1 for sale",500,2,1,semi-furnished,"Abuja (FCT), Garki 1",Garki 1,Abuja (FCT), VIP Gold,70000000.0
-"5bdrm Duplex in Private, Gaduwa for sale",500,5,6,Unfurnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,300000000.0
+"2bdrm Block of Flats in Private, Garki 1 for sale",500,2,1,semi-furnished,"Abuja (FCT), Garki 1",Garki 1,Abuja (FCT),VIP Gold,70000000.0
+"5bdrm Duplex in Private, Gaduwa for sale",500,5,6,Unfurnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,300000000.0
 Furnished 4bdrm Duplex in Alapere for sale,400,4,4,Furnished,"Kosofe, Ketu-Alapere",Ketu-Alapere,Lagos State,Enterprise,180000000.0
 "Furnished 4bdrm Duplex in Sliver Estate, Idimu for sale",500,4,4,Furnished,"Egbe/Idimu, Idimu",Idimu,Lagos State,Enterprise,140000000.0
 "4bdrm Duplex in Dantata Estate, Kubwa for sale",400,4,4,semi-furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),Diamond,250000000.0
-5bdrm Duplex in Asokoro for sale,650,5,7,semi-furnished,"Abuja (FCT), Asokoro",Asokoro,Abuja (FCT), VIP Gold,450000000.0
+5bdrm Duplex in Asokoro for sale,650,5,7,semi-furnished,"Abuja (FCT), Asokoro",Asokoro,Abuja (FCT),VIP Gold,450000000.0
 "4bdrm Duplex in Dantata Estate, Kubwa for sale",500,4,4,semi-furnished,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),Diamond,190000000.0
 Furnished 3bdrm Bungalow in Ibeshe for sale,550,3,3,Furnished,"Ikorodu, Ibeshe / Ikorodu",Ibeshe / Ikorodu,Lagos State,Enterprise,50000000.0
-"4bdrm Duplex in Privately, Gudu for sale",500,4,5,semi-furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT), VIP Gold,180000000.0
-3bdrm Block of Flats in Zone 3 for sale,222,3,3,semi-furnished,"Wuse, Zone 3 / Wuse",Zone 3 / Wuse,Abuja (FCT), VIP Gold,120000000.0
+"4bdrm Duplex in Privately, Gudu for sale",500,4,5,semi-furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT),VIP Gold,180000000.0
+3bdrm Block of Flats in Zone 3 for sale,222,3,3,semi-furnished,"Wuse, Zone 3 / Wuse",Zone 3 / Wuse,Abuja (FCT),VIP Gold,120000000.0
 "2bdrm Townhouse/Terrace in Aviation By Kyami, Kiami for sale",250,2,3,Unfurnished,"Lugbe District, Kiami",Kiami,Abuja (FCT),Enterprise,70000000.0
-"Furnished 3bdrm Block of Flats in Private, Life Camp for sale",500,3,4,Furnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT), VIP Gold,89000000.0
-"3bdrm Block of Flats in Private, Durumi for sale",500,3,4,semi-furnished,"Abuja (FCT), Durumi",Durumi,Abuja (FCT), VIP Gold,110000000.0
-"Furnished 3bdrm Apartment in Private, Gudu for sale",500,3,5,Furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT), VIP Gold,170000000.0
-"4bdrm Duplex in Private, Guzape District for sale",1119,4,6,Unfurnished,"Abuja (FCT), Guzape District",Guzape District,Abuja (FCT), VIP Gold,400000000.0
-"3bdrm Block of Flats in Private, Dakwo District for sale",500,3,3,semi-furnished,"Abuja (FCT), Dakwo District",Dakwo District,Abuja (FCT), VIP Gold,60000000.0
-"Furnished 3bdrm Apartment in Private, Gudu for sale",500,3,4,Furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT), VIP Gold,150000000.0
-"2bdrm Block of Flats in Private, Galadimawa for sale",500,2,3,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT), VIP Gold,73000000.0
-"3bdrm Block of Flats in Private, Kaura for sale",1277,3,4,Unfurnished,"Abuja (FCT), Kaura",Kaura,Abuja (FCT), VIP Gold,150000000.0
-"4bdrm Duplex in Private, Gaduwa for sale",500,4,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,162000000.0
-2bdrm Apartment in Wuye for sale,5000,2,3,semi-furnished,"Abuja (FCT), Wuye",Wuye,Abuja (FCT), VIP Gold,650000000.0
-"3bdrm Block of Flats in Private, Gudu for sale",500,3,4,semi-furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT), VIP Gold,107000000.0
-"3bdrm Block of Flats in Private, Gaduwa for sale",500,3,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT), VIP Gold,100000000.0
+"Furnished 3bdrm Block of Flats in Private, Life Camp for sale",500,3,4,Furnished,"Gwarinpa, Life Camp",Life Camp,Abuja (FCT),VIP Gold,89000000.0
+"3bdrm Block of Flats in Private, Durumi for sale",500,3,4,semi-furnished,"Abuja (FCT), Durumi",Durumi,Abuja (FCT),VIP Gold,110000000.0
+"Furnished 3bdrm Apartment in Private, Gudu for sale",500,3,5,Furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT),VIP Gold,170000000.0
+"4bdrm Duplex in Private, Guzape District for sale",1119,4,6,Unfurnished,"Abuja (FCT), Guzape District",Guzape District,Abuja (FCT),VIP Gold,400000000.0
+"3bdrm Block of Flats in Private, Dakwo District for sale",500,3,3,semi-furnished,"Abuja (FCT), Dakwo District",Dakwo District,Abuja (FCT),VIP Gold,60000000.0
+"Furnished 3bdrm Apartment in Private, Gudu for sale",500,3,4,Furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT),VIP Gold,150000000.0
+"2bdrm Block of Flats in Private, Galadimawa for sale",500,2,3,semi-furnished,"Abuja (FCT), Galadimawa",Galadimawa,Abuja (FCT),VIP Gold,73000000.0
+"3bdrm Block of Flats in Private, Kaura for sale",1277,3,4,Unfurnished,"Abuja (FCT), Kaura",Kaura,Abuja (FCT),VIP Gold,150000000.0
+"4bdrm Duplex in Private, Gaduwa for sale",500,4,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,162000000.0
+2bdrm Apartment in Wuye for sale,5000,2,3,semi-furnished,"Abuja (FCT), Wuye",Wuye,Abuja (FCT),VIP Gold,650000000.0
+"3bdrm Block of Flats in Private, Gudu for sale",500,3,4,semi-furnished,"Abuja (FCT), Gudu",Gudu,Abuja (FCT),VIP Gold,107000000.0
+"3bdrm Block of Flats in Private, Gaduwa for sale",500,3,4,semi-furnished,"Abuja (FCT), Gaduwa",Gaduwa,Abuja (FCT),VIP Gold,100000000.0
 "3bdrm Block of Flats in Cashman, Berger for sale",800,3,2,semi-furnished,"Ojodu, Berger",Berger,Lagos State,Enterprise,170000000.0
 4bdrm Duplex in Ikota for sale,450,4,4,Unfurnished,"Lekki, Ikota",Ikota,Lagos State,VIP,150000000.0
 "3bdrm Bungalow in Fountain University, Osogbo for sale",540,3,4,Unfurnished,"Osun State, Osogbo",Osogbo,Osun State,False,20000000.0
@@ -430,7 +430,7 @@ Furnished 8bdrm Apartment in Ikorodu for sale,635,8,3,Furnished,"Lagos State, Ik
 8bdrm Block of Flats in Dawaki for sale,1000,8,2,Unfurnished,"Gwarinpa, Dawaki",Dawaki,Abuja (FCT),False,140000000.0
 3bdrm Block of Flats in Akala Express for sale,500,3,3,Unfurnished,"Ibadan, Akala Express",Akala Express,Oyo State,Basic,85000000.0
 "Furnished 2bdrm Block of Flats in Cbn  Estate, Garki 2 for sale",250,2,2,Furnished,"Abuja (FCT), Garki 2",Garki 2,Abuja (FCT),False,140000000.0
-"2bdrm Bungalow in Ugbomro, Warri for sale",464,2,2,Unfurnished,"Delta State, Warri",Warri,Lagos State, VIP Gold,50000000.0
+"2bdrm Bungalow in Ugbomro, Warri for sale",464,2,2,Unfurnished,"Delta State, Warri",Warri,Lagos State,VIP Gold,50000000.0
 4bdrm Duplex in Aiben Estate Karmo for sale,400,4,4,Unfurnished,"Abuja (FCT), Karmo",Karmo,Abuja (FCT),Enterprise,250000000.0
 5bdrm Duplex in Lekki for sale,400,5,5,semi-furnished,"Lagos State, Lekki",Lekki,Lagos State,Enterprise,500000000.0
 Furnished 3bdrm Apartment in Ikoyi S.W for sale,300,3,3,Furnished,"Ikoyi, Ikoyi S.W",Ikoyi S.W,Lagos State,Enterprise,700000000.0
