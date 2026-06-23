@@ -160,7 +160,7 @@ def display_table_data(filtered_df):
    if len(filtered_df) > 0:
       st.dataframe(filtered_df, width='stretch', height=300)
    else:
-      st.warning("No employee data to display")
+      st.warning("No housing data to display")
 
 
 
@@ -188,5 +188,53 @@ def main():
     st.markdown("---")
     display_table_data(filtered_df)
 
+
+    st.subheader("Insights & Recommendations")
+
+    st.markdown("""  Summary of Findings:
+
+            Question 1: Which states have the highest-priced listings? 
+            Answer: Jigawa recorded the highest average property prices, followed closely by Lagos and Abuja
+
+            Question 2: Which states are the most affordable?
+            Answer: States in the North-Central and South-East regions generally showed lower average property prices.
+
+            Question 3: Do furnished homes consistently cost more than unfurnished ones?
+            Answer: Furnished properties consistently sold at higher prices than unfurnished properties.
+
+            Question 4: How strongly do bedrooms, bathrooms, or property size influence price?
+            Answer: Bedrooms and bathrooms or property size shows a positive relationship with property price. Larger properties attracted premium pricing across all regions.
+
+            Question 5: Are boosted (Enterprise) listings typically more expensive?
+            Answer: Yes, Enterprise/boosted listings were typically more expensive than other listings.
+
+            Question 6: What property types attract premium pricing?
+            Answer: Lagos dominated listing volume while Abuja dominated luxury property sales.
+
+            Question 7: What patterns exist in Lagos vs Abuja vs other regions?
+            Answer: Most affordable properties were concentrated in other regional markets outside Lagos and Abuja
+            """)
+
+    st.markdown("""Business Insights & Recommendations:
+
+            Question 1: Which housing type or feature performs best overall on jiji?
+            Answer: Luxury apartments with multiple bedrooms and modern furnishing generate the highest market value on Jiji.
+
+            Question 2: Which state contributes the most revenue potential?
+            Answer: Lagos contributes the greatest revenue potential due to its high listing volume and premium pricing.
+
+            Question 3: Which states underperform?
+            Answer: Ekiti State, Kwara State and Akwa Ibom State were the underperforming states
+
+            Question 4: Which period (if using timestamps) records the highest listing activity?
+
+            Question 5: What strategies can improve sales in low-performing regions?
+            Answer: Sellers should invest in professional photos, detailed descriptions, and boosted listings to improve visibility.
+            Jiji can increase activity in underperforming states through targeted advertising and regional promotions.
+
+            Question 6: What can sellers do to increase listing visibility and pricing power?
+            Answer: Real-estate agents in low-performing regions should emphasize affordability and financing options
+
+            """)
 
 main()
