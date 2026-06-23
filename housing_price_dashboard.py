@@ -17,7 +17,7 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     try:
-        df = pd.read_csv("cleaned_nigeria_housing_dataset.csv")
+        df = pd.read_csv("data/cleaned_nigeria_housing_dataset.csv")
         return df
     except FileNotFoundError as e:
         st.warning(f"An error occured: {e}")
@@ -27,8 +27,8 @@ def create_sidebar_filters(df):
 
     Region = st.sidebar.multiselect(
          "Select State(s):", 
-        options=df['Region'].unique(), 
-        default=df['Region'].unique()
+        options=df['Region Parent Name'].unique(), 
+        default=df['Region Parent Name'].unique()
     )
 
     price = st.sidebar.multiselect(
@@ -44,7 +44,7 @@ def create_sidebar_filters(df):
     return Region, price, boosting
 
 def filter_data(df, Region, price, boosting):
-    filtered_df = df[df['Region'].isin(Region) & df['Price'].isin(price) & df['Is Boost'].isin(boosting)]
+    filtered_df = df[df['Region Parent Name'].isin(Region) & df['Price'].isin(price) & df['Is Boost'].isin(boosting)]
     return filtered_df
 
 def display_metrics(filtered_df):
@@ -58,12 +58,12 @@ def display_metrics(filtered_df):
         st.metric("⛪Average Price", f"₦{avg_price:,.2f}")
 
     with col3:
-        common_region = filtered_df['Region'].mode()[0] if not filtered_df.empty else "N/A"
+        common_region = filtered_df['Region Parent Name'].mode()[0] if not filtered_df.empty else "N/A"
         st.metric("🏣Most Common Region", value=common_region)
 
     with col4:
         house_pct = (filtered_df['Furnishing'] == 'Furnished').sum() / len(filtered_df) * 100 if len(filtered_df) > 0 else 0
-        st.metric("✔️ house percentage", f"{house_pct:.1f}%")
+        st.metric("✔️ House Percentage", f"{house_pct:.1f}%")
 
     
 def display_chart(filtered_df):
@@ -73,11 +73,11 @@ def display_chart(filtered_df):
     
     col1, col2 = st.columns(2)
     with col1:
-       state_counts = filtered_df['Region'].value_counts().reset_index()
-       state_counts.columns = ['Region', 'Listings']
+       state_counts = filtered_df['Region Parent Name'].value_counts().reset_index()
+       state_counts.columns = ['Region Parent Name', 'Listings']
        fig1 = px.bar(
        state_counts,
-       x='Region',
+       x='Region Parent Name',
        y='Listings',
        title='Number of Listings per Region'
        )
@@ -85,10 +85,10 @@ def display_chart(filtered_df):
        st.plotly_chart(fig1, width='stretch')
 
     with col2:
-        avg_price_state = filtered_df.groupby('Region')['Price'].mean().sort_values(ascending=False).reset_index()
+        avg_price_state = filtered_df.groupby('Region Parent Name')['Price'].mean().sort_values(ascending=False).reset_index()
         fig2 = px.bar(
         avg_price_state,
-        x='Region',
+        x='Region Parent Name',
         y='Price',
         title='Average Property Price per Region'
         )
